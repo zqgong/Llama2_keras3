@@ -1,4 +1,4 @@
-## llama2 keras2
+## llama2 keras3
 
 This respository is a Multi-Backend (Pytorch, Tensorflow, Jax) implementation of [LLaMA](https://github.com/facebookresearch/llama) using Keras3. 
 
@@ -6,6 +6,7 @@ Base on [LLaMA-Lite](https://github.com/abdeladim-s/llama-lite).
 
 Implement the KVCache in simple code. [Speed up the GPT](https://www.dipkumar.dev/becoming-the-unbeatable/posts/gpt-kvcache/)
 
+Easy to convert to tflite.
 
 ## Inference
 
